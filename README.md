@@ -35,5 +35,8 @@ Analyzing the balance between the potential risks and rewards of different stock
 **Jupyter Notebook:** Integrated Development Environment (IDE) used for interactive data analysis and documentation.
 
 
+
+
 **Contributors**
+
 Vrishank Malviya - Project Lead & Developer
